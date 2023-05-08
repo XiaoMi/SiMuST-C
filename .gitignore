@@ -1,0 +1,9 @@
+.idea
+build
+__pycache__/
+.Python
+build/
+develop-eggs/
+dist/
+*.spec
+*.zip
